@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0042-trapping-rain-water) |
+| [0567-permutation-in-string](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -55,12 +56,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
