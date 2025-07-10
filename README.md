@@ -45,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0226-invert-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
