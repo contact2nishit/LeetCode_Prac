@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -119,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
