@@ -20,15 +20,9 @@ public:
         else {findpath(root->right, x, path);}
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if (p->val == q->val) return p;
-        vector<TreeNode*> pathP;
-        vector<TreeNode*> pathQ;
-        findpath(root, p, pathP);
-        findpath(root, q, pathQ);
-        int it = min(pathP.size() - 1, pathQ.size() - 1);
-        while (pathP[it] != pathQ[it]) {
-            --it;
-        }
-        return pathP[it];
+        if (!root || !p || !q) return nullptr;
+        if (max(p->val, q->val) < root->val) return lowestCommonAncestor(root->left, p, q);
+        else if (min(p->val, q->val) > root->val) return lowestCommonAncestor(root->right, p, q);
+        else return root;
     }
 };
