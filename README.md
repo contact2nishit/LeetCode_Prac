@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0322-coin-change) |
 | [0792-binary-search](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0322-coin-change) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0322-coin-change) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
