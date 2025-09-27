@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0322-coin-change) |
 ## Stack
@@ -174,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
