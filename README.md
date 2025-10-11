@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0543-diameter-of-binary-tree) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0695-max-area-of-island) |
@@ -236,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1014-k-closest-points-to-origin) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
