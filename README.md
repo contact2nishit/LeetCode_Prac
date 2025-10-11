@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0076-minimum-window-substring) |
+| [0208-implement-trie-prefix-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1023-time-based-key-value-store) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0076-minimum-window-substring) |
+| [0208-implement-trie-prefix-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1023-time-based-key-value-store) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0208-implement-trie-prefix-tree) |
 | [1023-time-based-key-value-store](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1023-time-based-key-value-store) |
 ## Linked List
 |  |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
