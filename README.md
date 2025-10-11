@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1127-last-stone-weight) |
 ## Two Pointers
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0239-sliding-window-maximum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1127-last-stone-weight) |
 ## Monotonic Queue
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0070-climbing-stairs) |
+| [1014-k-closest-points-to-origin](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1014-k-closest-points-to-origin) |
 ## Memoization
 |  |
 | ------- |
@@ -217,4 +220,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0789-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1014-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
