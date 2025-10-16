@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0074-search-a-2d-matrix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0208-implement-trie-prefix-tree) |
