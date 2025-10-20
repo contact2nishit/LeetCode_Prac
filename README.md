@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0136-single-number) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0136-single-number) |
 ## Math
 |  |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0803-cheapest-flights-within-k-stops) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
