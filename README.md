@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0792-binary-search) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0705-design-hashset) |
 | [1023-time-based-key-value-store](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0208-implement-trie-prefix-tree) |
+| [0705-design-hashset](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0705-design-hashset) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1023-time-based-key-value-store) |
 ## Linked List
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0705-design-hashset) |
 ## Binary Search Tree
 |  |
 | ------- |
