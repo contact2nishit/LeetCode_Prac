@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0078-subsets) |
@@ -47,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
