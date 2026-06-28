@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1014-k-closest-points-to-origin) |
 ## Memoization
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0130-surrounded-regions) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
