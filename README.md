@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0792-binary-search) |
+| [0881-boats-to-save-people](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1036-rotting-oranges) |
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0567-permutation-in-string) |
+| [0881-boats-to-save-people](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0055-jump-game) |
+| [0881-boats-to-save-people](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0215-kth-largest-element-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0881-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
