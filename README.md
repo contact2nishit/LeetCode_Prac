@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0191-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
