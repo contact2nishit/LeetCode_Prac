@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0198-house-robber) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0135-candy) |
 | [0881-boats-to-save-people](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
