@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0075-sort-colors) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0135-candy) |
 | [0881-boats-to-save-people](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0881-boats-to-save-people) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0070-climbing-stairs) |
