@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0239-sliding-window-maximum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1036-rotting-oranges) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/contact2nishit/LeetCode_Prac/tree/master/1023-time-based-key-value-store) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0212-word-search-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0078-subsets) |
+| [0212-word-search-ii](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0212-word-search-ii) |
 ## Union-Find
 |  |
 | ------- |
