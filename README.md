@@ -364,4 +364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0062-unique-paths) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/contact2nishit/LeetCode_Prac/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
