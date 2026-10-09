@@ -1,35 +1,27 @@
 class Solution {
-
-unordered_map<int, vector<int>> edges;
-unordered_set<int> visiting;
-
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        for (int i = 0; i < numCourses; ++i) {
-            edges[i] = {};
-        }
+        unordered_map<int, vector<int>> adj;
         for (auto i: prerequisites) {
-            edges[i[0]].push_back(i[1]);
+            adj[i[1]].push_back(i[0]);
         }
+        unordered_set<int> visited;
+        bool answer = true;
         for (int i = 0; i < numCourses; ++i) {
-            if (!dfs(i)) {
-                return false;
-            }
+            answer = answer && dfs(i, adj, visited);
         }
-        return true;
+        return answer;
     }
-    bool dfs(int vertex) {
-        if (visiting.count(vertex)) return false;
-        if (edges[vertex].empty()) return true;
 
-        visiting.insert(vertex);
-        for (int next: edges[vertex]) {
-            if (!dfs(next)) {
-                return false;
-            }
+    bool dfs(int vertex, unordered_map<int, vector<int>>& adj, unordered_set<int>& visited) {
+        visited.insert(vertex);
+        bool result = true;
+        for (auto i: adj[vertex]) {
+            if (visited.count(i)) return false;
+            result = result && dfs(i, adj, visited);
         }
-        visiting.erase(vertex);
-        edges[vertex].clear();
-        return true;
+        visited.erase(vertex);
+        adj[vertex].clear();
+        return result;
     }
 };
